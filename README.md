@@ -1,2 +1,2 @@
 # Shopify Snippets
-Repo of Mutliple shopify dynamic collections.
+Repo of Mutliple shopify dynamic sections.
